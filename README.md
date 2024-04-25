@@ -15,6 +15,6 @@ Me interesan especialmente el desarrollo web, la inteligencia artificial y la ci
 Mi objetivo principal es convertirme en un desarrollador de software altamente competente y contribuir a proyectos emocionantes y desafiantes. Estoy dispuesto a enfrentar nuevos desafíos y aprender de ellos.
 
 ## Contacto
-Si deseas colaborar en proyectos o simplemente quieres charlar sobre programación, no dudes en contactarme a través de mi correo electrónico: [dkuaik@example.com](mailto:dkuaik@example.com).
+Si deseas colaborar en proyectos o simplemente quieres charlar sobre programación, no dudes en contactarme a través de mi correo electrónico: [enrq.rios.f@gmail.com](mailto:enrq.rios.f@gmail.com).
 
 ¡Gracias por leer mi presentación! Estoy emocionado por lo que el futuro me depara en el mundo de la programación.
