@@ -15,8 +15,6 @@ Soy un programador en constante aprendizaje, con un fuerte enfoque en **Data Sci
 <div align="center">
   <!-- Badges de habilidades y tecnologías -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
 </div>
 
@@ -33,7 +31,6 @@ Siempre estoy abierto a aprender nuevas tecnologías y metodologías para seguir
 
 Me apasiona:
 - **Data Science e Inteligencia Artificial:** Implementación de modelos predictivos y análisis avanzado de datos.
-- **Desarrollo Web:** Creación de aplicaciones interactivas y optimizadas.
 - **Innovación en el Mercado de Datos:** Exploración de oportunidades y soluciones basadas en la información.
 
 ## Objetivos
