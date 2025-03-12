@@ -1,9 +1,27 @@
 <div align="center">
-  <h1 style="color: #2d89ef;">¡Hola! Soy DKuaik</h1>
+  <h1 style="color: #2d89ef;">¡Hola! Soy Enrique</h1>
   <h3 style="color: #555;">Data Science & Inteligencia Artificial</h3>
   <p style="font-size: 1.1em;">Apasionado por el análisis de datos y su aplicación en el mundo real</p>
   <!-- Puedes incluir una imagen de perfil o logo aquí -->
   <!-- <img src="URL_DE_TU_IMAGEN" alt="DKuaik" width="150px"> -->
+</div>
+
+<div align="center">
+  <h3 style="color: #555;">Tecnologías que me gustan</h3>
+  <!-- Badges de habilidades y tecnologías -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" >
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" >
+  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" >
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" >
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+  
+  
+  
 </div>
 
 <hr>
@@ -12,11 +30,7 @@
 
 Soy un programador en constante aprendizaje, con un fuerte enfoque en **Data Science** e **Inteligencia Artificial**. Mi pasión es transformar datos en conocimientos útiles y aplicarlos a soluciones innovadoras en el mercado de datos.
 
-<div align="center">
-  <!-- Badges de habilidades y tecnologías -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
-</div>
+
 
 ## Experiencia
 
