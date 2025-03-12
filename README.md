@@ -1,70 +1,83 @@
 <div align="center">
-  <h1 style="color: #2d89ef;">¡Hola! Soy Enrique</h1>
-  <h3 style="color: #555;">Data Science & Inteligencia Artificial</h3>
-  <p style="font-size: 1.1em;">Apasionado por la IA y su aplicación en el mundo real</p>
-  <!-- Puedes incluir una imagen de perfil o logo aquí -->
-  <!-- <img src="URL_DE_TU_IMAGEN" alt="DKuaik" width="150px"> -->
+  <h1>¡Hola! Soy Enrique Ríos Flores</h1>
+  <h3>Data Science | Inteligencia Artificial | Automatización</h3>
+  <p>Me apasiona la inteligencia artificial, el análisis de datos y la automatización de procesos.</p>
 </div>
 
+---
+
+## 🚀 Sobre mí
+
+Soy un entusiasta de la tecnología con formación en Física y Matemáticas. Me especializo en **ciencia de datos e inteligencia artificial**, combinando matemáticas avanzadas y programación para resolver problemas complejos. Mi enfoque incluye:
+
+- **Machine Learning & AI**: Desarrollo de modelos predictivos y optimización de procesos mediante algoritmos avanzados.
+- **Automatización & APIs**: Implementación de soluciones inteligentes para la integración y optimización de procesos empresariales.
+- **Desarrollo Web & Backend**: Creación de aplicaciones y plataformas que potencian el análisis de datos y la inteligencia artificial.
+
+---
+
+## 🌟 Áreas de Trabajo e Interés
+
+Me he desarrollado en distintos campos relacionados con la tecnología, ciencia de datos e inteligencia artificial:
+
+- **Inteligencia Artificial & Machine Learning**: Implementación de modelos predictivos, redes neuronales y optimización de procesos.
+- **Automatización & Procesamiento de Datos**: Extracción, limpieza y transformación de datos para mejorar la toma de decisiones.
+- **Infraestructura & Despliegue**: Orquestación de aplicaciones con Docker y Railway para asegurar escalabilidad y eficiencia.
+- **Desarrollo Web & Backend**: Creación de soluciones utilizando FastAPI, Flask y la integración con bases de datos SQL.
+
+Para detalles específicos sobre mi experiencia laboral, puedes consultar mi [Currículum Vitae](#).
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
 <div align="center">
-  <h3 style="color: #555;">Tecnologías que me gustan</h3>
-  <!-- Badges de habilidades y tecnologías -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" >
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" >
-  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" >
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" >
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" >
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
-  
-  
-  
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-<hr>
+- **Lenguajes:** Python (Avanzado), C (Intermedio), SQL (Intermedio).
+- **Automatización y APIs:** OpenRouter, FastAPI, Flask.
+- **Orquestación y despliegue:** Docker, Railway.
+- **Desarrollo web:** Backend con Python, FastAPI y Flask.
+- **Ciencia de Datos y Modelado:** Machine Learning, Algoritmos Evolutivos, Optimización Matemática.
 
-## Sobre mí
+---
 
-Soy un programador en constante aprendizaje, con un fuerte enfoque en **Data Science** e **Inteligencia Artificial**. Mi pasión es transformar datos en conocimientos útiles y aplicarlos a soluciones innovadoras en el mercado de datos.
+## 📌 Proyectos Destacados
 
+🔹 **[GreenGP - Predicción climática con IA](#)**  
+🔹 **[Tilizacion de modelos LLM através APIs con OpenRouter](#)**  
+🔹 **[MAAe - Análisis de Evidencias para Pemex](#)**  
+🔹 **[Modelos de regresión simbólica para impacto ambiental](#)**  
 
+---
 
-## Experiencia
+## 🎯 Objetivos
 
-Aunque aún estoy en las primeras etapas de mi carrera, he participado en diversos proyectos personales y académicos que me han permitido adquirir experiencia en:
-- **Análisis y procesamiento de datos**
-- **Modelado y Machine Learning**
-- **Desarrollo de soluciones web y aplicaciones inteligentes**
+📌 Convertirme en un **especialista en IA y ciencia de datos**, aplicando técnicas avanzadas para la optimización de procesos.  
+📌 Desarrollar proyectos innovadores que combinen **modelos matemáticos, automatización e inteligencia artificial**.  
+📌 Ampliar mi conocimiento en **infraestructura de datos, despliegue eficiente y optimización de modelos en producción**.  
 
-Siempre estoy abierto a aprender nuevas tecnologías y metodologías para seguir creciendo profesionalmente.
+---
 
-Si quieres conocer un poco más sobre mi trayectoria profesional y los proyectos en los que he participado puede ver 
-<div>
-<a href="https://www.overleaf.com/read/mpnpcdxdhmfx#41e05f"> Curriculum Vitae </a>
-  
-<a href="">Porfolios (en progreso)</a>
-  
-</div>
+## 💌 Contacto
 
-## Intereses
-
-Me apasiona:
-- **Data Science e Inteligencia Artificial:** Implementación de modelos predictivos y análisis avanzado de datos.
-- **Innovación en el Mercado de Datos:** Exploración de oportunidades y soluciones basadas en la información.
-
-## Objetivos
-
-Mi meta es convertirme en un profesional altamente competente, capaz de integrar soluciones de software con análisis de datos para generar valor en proyectos desafiantes y de impacto. Estoy comprometido a enfrentar nuevos retos y a aprender constantemente de cada experiencia.
-
-## Contacto
-
-Si deseas colaborar en proyectos, intercambiar ideas o simplemente conversar sobre tecnología, ¡no dudes en contactarme!
+Si te interesa colaborar en proyectos o discutir ideas sobre inteligencia artificial y ciencia de datos, ¡hablemos!
 
 <div align="center">
   <a href="mailto:enrq.rios.f@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-enrq.rios.f@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Contacto">
+    <img src="https://img.shields.io/badge/Email-enrq.rios.f@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/enrqriosf/">
+    <img src="https://img.shields.io/badge/LinkedIn-enrqriosf-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Dkuaik">
+    <img src="https://img.shields.io/badge/GitHub-Dkuaik-%23121011?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
+
