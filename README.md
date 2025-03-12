@@ -41,6 +41,13 @@ Aunque aún estoy en las primeras etapas de mi carrera, he participado en divers
 
 Siempre estoy abierto a aprender nuevas tecnologías y metodologías para seguir creciendo profesionalmente.
 
+Si quieres conocer un poco más sobre mi trayectoria profesional y los proyectos en los que he participado puede ver 
+<div>
+<a href="https://www.overleaf.com/read/mpnpcdxdhmfx#41e05f"> Curriculum Vitae </a>
+<a href="">Porfolios (en progreso)</a>
+  
+</div>
+
 ## Intereses
 
 Me apasiona:
