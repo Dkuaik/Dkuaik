@@ -41,14 +41,6 @@ Aunque aún estoy en las primeras etapas de mi carrera, he participado en divers
 
 Siempre estoy abierto a aprender nuevas tecnologías y metodologías para seguir creciendo profesionalmente.
 
-## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
-
 ## Intereses
 
 Me apasiona:
