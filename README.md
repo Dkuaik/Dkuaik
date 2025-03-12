@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #2d89ef;">¡Hola! Soy Enrique</h1>
   <h3 style="color: #555;">Data Science & Inteligencia Artificial</h3>
-  <p style="font-size: 1.1em;">Apasionado por el análisis de datos y su aplicación en el mundo real</p>
+  <p style="font-size: 1.1em;">Apasionado por la IA y su aplicación en el mundo real</p>
   <!-- Puedes incluir una imagen de perfil o logo aquí -->
   <!-- <img src="URL_DE_TU_IMAGEN" alt="DKuaik" width="150px"> -->
 </div>
