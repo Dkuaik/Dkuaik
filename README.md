@@ -89,5 +89,11 @@ Para un desglose completo de experiencia y logros, revisa mi **[CV en PDF](#)**.
 </div>
 
 ---
+<div align="center">
+  <p><em>💡 "El código es poesía en movimiento, cada función una estrofa, cada algoritmo una sinfonía"</em></p>
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+---
 
 <p align="center">🚧 Construyendo soluciones donde los datos se convierten en impacto 🚀</p>
