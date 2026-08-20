@@ -86,6 +86,9 @@ Para un desglose completo de experiencia y logros, revisa mi **[CV en PDF](#)**.
   <a href="https://github.com/Dkuaik">
     <img src="https://img.shields.io/badge/GitHub-Dkuaik-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://portfolio.dkuaik.dev">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.dkuaik.dev-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
 </div>
 
 ---
