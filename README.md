@@ -1,99 +1,76 @@
 <div align="center">
 
-# ¡Hola! Soy **Enrique Ríos Flores**  
-### Data Science ⚙️ | Inteligencia Artificial 🧠 | Automatización & Microservicios ☸️
+# Enrique Ríos Flores
 
-Apasionado por convertir datos en valor mediante IA, matemáticas avanzadas y arquitecturas modulares.
+**AI Engineer · Data Science · Automatización**
+
+<sub>Físico-matemático que convierte problemas complejos en sistemas de IA reproducibles y listos para producción.</sub>
+
+<br />
+
+<a href="https://www.linkedin.com/in/enrqriosf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:enrq.rios.f@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
----
+<br />
 
-## 🚀 Sobre mí
-Físico-matemático convertido en **ingeniero de IA y automatización**.  
-Me especializo en **abstraer problemas complejos** y transformarlos en soluciones reproducibles:
+### Enfoque
 
-- **Generative AI & LLM Ops** – Orquesto flujos con OpenAI / OpenRouter para contenido y análisis de texto.  
-- **Data Engineering/MLOps** – Diseño pipelines ETL, versiono datos y despliego modelos con Docker + CI/CD.  
-- **Arquitectura Hexagonal & Microservicios** – APIs REST/GraphQL con FastAPI, NestJS y mensajería asíncrona.  
-- **Infraestructura Cloud & DevOps** – Railway, Azure, GitHub Actions y contenedores listos para producción.  
+Diseño sistemas donde la IA es una pieza confiable, no una caja negra: arquitectura limpia, métricas medibles y despliegues reproducibles.
 
----
+<br />
 
-## 🌟 Áreas de trabajo e interés
-- **AI Engineering** → LLM tooling, redes neuronales, algoritmos evolutivos, optimización matemática.  
-- **Automatización Empresarial** → ERP (Odoo) + APIs, bots de scraping con Selenium/BeautifulSoup.  
-- **Data Ops** → Postgres, SQLite, versionado de datasets y pruebas continuas de integridad.  
-- **Infraestructura & Redes** → Docker, Kubernetes-like orchestrations, laboratorio de redes Cisco /PT.  
-- **Frontend orientado a datos** → Dashboards con Next.js + Auth0, visualizaciones en React.
+### Crecimiento reciente
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Visión por computadora y LLMs multimodales</b><br />
+      <sub>Análisis de video a escala y evaluación sistemática de modelos con métricas de precisión y error.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Infraestructura de IA on-premise</b><br />
+      <sub>Inferencia self-hosted en GPU, gateways de modelos y gestión de recursos para cargas en tiempo real.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Arquitectura de software</b><br />
+      <sub>Arquitectura hexagonal, contratos claros entre capas y desarrollo guiado por pruebas.</sub>
+    </td>
+    <td valign="top">
+      <b>Automatización con IA</b><br />
+      <sub>Flujos que combinan datos deterministas con análisis de LLMs para apoyar decisiones de negocio.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Integración de agentes</b><br />
+      <sub>Servidores MCP que conectan asistentes de IA con fuentes de datos empresariales de forma segura.</sub>
+    </td>
+    <td valign="top">
+      <b>Liderazgo y adopción de IA</b><br />
+      <sub>Formación de equipos y definición de estándares para el uso responsable de IA.</sub>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tecnologías y Herramientas
+<br />
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nestjs,nextjs,vue,pytorch,sklearn,postgres,mongodb,docker,githubactions,azure,linux&theme=dark" alt="Stack" />
+</p>
+
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dkuaik/Dkuaik/output/github-snake-dark.svg" />
+  <img alt="Contribuciones" src="https://raw.githubusercontent.com/Dkuaik/Dkuaik/output/github-snake.svg" />
+</picture>
+
 </div>
-
-- **Lenguajes:** Python (Avanzado), TypeScript (Intermedio), SQL, Bash, C.  
-- **AI Stack:** PyTorch, scikit-learn, DEAP, LangChain + OpenRouter.  
-- **Dev & MLOps:** Docker, Railway, Azure, GitHub Actions, Terraform (básico).  
-- **Bases de datos:** Postgres, SQLite, TimescaleDB.  
-
----
-
-## 📌 Proyectos Destacados
-
-| Año · Rol | Proyecto | Highlights |
-|-----------|----------|------------|
-| 2025 · Lead AI Engineer | **MAAe – Modelo Avanzado para el Análisis de Evidencias** | Plataforma AI dockerizada para PEMEX; OCR + LLM ⇒ 90 % precisión, REST API FastAPI + Next.js, Auth0 & Azure CI/CD |
-| 2025 · Investigador | **GreenGP** | Regresión simbólica evolutiva sobre clima; R² = 0.86, pipeline reproducible en GPU A100 |
-| 2024-25 · Consultor IA | **Guía ECOEMS** | Scraping & generación de +5 k ítems educativos con LLMs; Postgres + Docker CDN |
-| 2024 - Data Automation | **ERP Automation (IRE/TCMC)** | Integración Odoo-Python; capa OpenRouter para minimizar coste por inferencia (-25 %) |
-| 2025 · Side Project | **NeuraTask** | Todolist inteligente, hexagonal, NestJS + GPT-wrapper, recomendaciones contextuales |
-| 2025 · Personal Lab | **Home Network Lab & Cloud** | Topología multi-sitio en Cisco Packet Tracer; servidor propio con Docker Swarm |
-
----
-
-## 🎯 Objetivos Próximos
-- Profundizar en **MLOps avanzado** (K8s para modelos, observabilidad).  
-- Contribuir a proyectos **open-source** de IA y herramientas de datos.  
-- Diseñar cursos/workshops sobre **LLM Ops y arquitecturas hexagonales** en español.
-
----
-
-## 📄 Curriculum
-Para un desglose completo de experiencia y logros, revisa mi **[CV en PDF](#)**.
-
----
-
-## 💌 Contacto
-
-<div align="center">
-  <a href="mailto:enrq.rios.f@gmail.com">
-    <img src="https://img.shields.io/badge/Email-enrq.rios.f@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/enrqriosf/">
-    <img src="https://img.shields.io/badge/LinkedIn-enrqriosf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Dkuaik">
-    <img src="https://img.shields.io/badge/GitHub-Dkuaik-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
----
-<div align="center">
-  <p><em>💡 "El código es poesía en movimiento, cada función una estrofa, cada algoritmo una sinfonía"</em></p>
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
----
-
-<p align="center">🚧 Construyendo soluciones donde los datos se convierten en impacto 🚀</p>
